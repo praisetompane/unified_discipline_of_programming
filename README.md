@@ -53,3 +53,10 @@ def abstractions:
 - Van Roy P, Haridi S. 2004. Concepts, Techniques and Models of Computer Programming. The MIT Press.
 - Sipser, M. 2012. Introduction to the Theory of Computation. 3rd ed. Cengage Learning.
 
+# Legend:
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
+
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as distributed memory.

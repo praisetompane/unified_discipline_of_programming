@@ -1,4 +1,4 @@
-# common_computational_problem_solutions
+# common_computational_problem_solution_implementations
 common computational problems and their solutions in the different computation models.
 
 ## What is a Computational Problem?
